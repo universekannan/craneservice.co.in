@@ -75,10 +75,10 @@ Tamilnadu India
                   <a class="nav-link" href="{{ url('about') }}"> About</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="{{ url('home') }}services">Services</a>
+                  <a class="nav-link" href="{{ url('services') }}">Services</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="{{ url('projects') }}project">Project</a>
+                  <a class="nav-link" href="{{ url('projects') }}">Project</a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="{{ url('testimonial') }}">Testimonial</a>

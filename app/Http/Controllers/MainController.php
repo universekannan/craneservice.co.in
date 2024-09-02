@@ -46,9 +46,21 @@ class MainController extends BaseController
 
         }
 
+        public function projects(){
+			
+            return view("projects");
+
+        }
+
         public function services(){
 			
             return view("services");
+
+        }
+
+        public function testimonial(){
+			
+            return view("testimonial");
 
         }
 
