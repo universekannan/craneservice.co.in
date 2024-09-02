@@ -57,7 +57,7 @@ Tamilnadu India
       <div class="header_bottom">
         <div class="container-fluid">
           <nav class="navbar navbar-expand-lg custom_nav-container ">
-            <a class="navbar-brand" href="index.html">
+            <a class="navbar-brand" href="{{ url('home') }}">
               <img src="images/logo.png" alt="">
             </a>
             </a>
@@ -69,31 +69,23 @@ Tamilnadu India
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
               <ul class="navbar-nav  ">
                 <li class="nav-item active">
-                  <a class="nav-link" href="welcome">Home <span class="sr-only">(current)</span></a>
+                  <a class="nav-link" href="{{ url('home') }}">Home <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="services">Services</a>
+                  <a class="nav-link" href="{{ url('about') }}"> About</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="about"> About</a>
+                  <a class="nav-link" href="{{ url('home') }}services">Services</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="project.html">Project</a>
+                  <a class="nav-link" href="{{ url('projects') }}project">Project</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="testimonial.html">Testimonial</a>
+                  <a class="nav-link" href="{{ url('testimonial') }}">Testimonial</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="contact">Contact Us</a>
+                  <a class="nav-link" href="{{ url('contact') }}">Contact Us</a>
                 </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="#"> Login</a>
-                </li>
-                <form class="form-inline">
-                  <button class="btn  my-2 my-sm-0 nav_search-btn" type="submit">
-                    <i class="fa fa-search" aria-hidden="true"></i>
-                  </button>
-                </form>
               </ul>
               <div class="quote_btn-container">
                 <a href="" class="quote_btn">
