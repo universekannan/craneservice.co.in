@@ -3,16 +3,14 @@
       <div class="header_top">
         <div class="container-fluid header_top_container">
           <div class="lang_box dropdown">
-            <a href="#" title="Language" class="nav-link" data-toggle="dropdown" aria-expanded="true">
-              <img src="images/flag-uk.png" alt="flag" class=" " title="United Kingdom"> <i class="fa fa-angle-down " aria-hidden="true"></i>
-            </a>
+           
             <div class="dropdown-menu ">
               <a href="#" class="dropdown-item">
-                <img src="images/flag-france.png" class="" alt="flag">
+                
               </a>
             </div>
             <span>
-              English
+              
             </span>
           </div>
           <div class="contact_nav">
@@ -32,9 +30,8 @@
               <i class="fa fa-map-marker" aria-hidden="true"></i>
               <span>
                 Location : Mottavilai,
-Karankadu PO,629809, <br>
-Kanyakumari.Dist,
-Tamilnadu India
+Karankadu PO, 
+Kanyakumari
               </span>
             </a>
           </div>
@@ -81,7 +78,7 @@ Tamilnadu India
                   <a class="nav-link" href="{{ url('projects') }}">Project</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="{{ url('testimonial') }}">Testimonial</a>
+                  <a class="nav-link" href="{{ url('testimonials') }}">Testimonial</a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="{{ url('contact') }}">Contact Us</a>

@@ -58,9 +58,9 @@ class MainController extends BaseController
 
         }
 
-        public function testimonial(){
+        public function testimonials(){
 			
-            return view("testimonial");
+            return view("testimonials");
 
         }
 
