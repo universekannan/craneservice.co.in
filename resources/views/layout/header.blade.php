@@ -2,17 +2,7 @@
     <header class="header_section">
       <div class="header_top">
         <div class="container-fluid header_top_container">
-          <div class="lang_box dropdown">
-           
-            <div class="dropdown-menu ">
-              <a href="#" class="dropdown-item">
-                
-              </a>
-            </div>
-            <span>
-              
-            </span>
-          </div>
+         
           <div class="contact_nav">
             <a href="">
               <i class="fa fa-phone" aria-hidden="true"></i>
