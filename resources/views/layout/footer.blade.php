@@ -5,19 +5,22 @@
         <a href="">
           <i class="fa fa-phone" aria-hidden="true"></i>
           <span>
-            Call : +01 123455678990
+            Call : 9442762222, 9788971046
           </span>
         </a>
         <a href="">
           <i class="fa fa-envelope" aria-hidden="true"></i>
           <span>
-            Email : demo@gmail.com
+            Email : sanika@gmail.com
           </span>
         </a>
         <a href="">
           <i class="fa fa-map-marker" aria-hidden="true"></i>
           <span>
-            Location
+            Location : Mottavilai,
+Karankadu PO,629809,
+Kanyakumari.Dist,
+Tamilnadu India
           </span>
         </a>
       </div>
@@ -118,8 +121,8 @@
   <footer class="footer_section">
     <div class="container">
       <p>
-        &copy; <span id="displayYear"></span> All Rights Reserved By
-        <a href="https://html.design/">Free Html Templates</a>
+        &copy; <span id="displayYear"></span> Copyrights Sanika Crane Service, All rights Reserved. Designing & Hosting by
+        <a href="https://html.design/"> Designing & Hosting by Galaxy Technology Park Inc</a>
       </p>
     </div>
   </footer>

@@ -19,19 +19,22 @@
             <a href="">
               <i class="fa fa-phone" aria-hidden="true"></i>
               <span>
-                Call : +01 123455678990
+                Call : 9442762222, 9788971046 
               </span>
             </a>
             <a href="">
               <i class="fa fa-envelope" aria-hidden="true"></i>
               <span>
-                Email : demo@gmail.com
+                Email : sanika@gmail.com
               </span>
             </a>
             <a href="">
               <i class="fa fa-map-marker" aria-hidden="true"></i>
               <span>
-                Location
+                Location : Mottavilai,
+Karankadu PO,629809, <br>
+Kanyakumari.Dist,
+Tamilnadu India
               </span>
             </a>
           </div>
@@ -66,13 +69,13 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
               <ul class="navbar-nav  ">
                 <li class="nav-item active">
-                  <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+                  <a class="nav-link" href="welcome">Home <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="service.html">Services</a>
+                  <a class="nav-link" href="services">Services</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="about.html"> About</a>
+                  <a class="nav-link" href="about"> About</a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="project.html">Project</a>
@@ -81,7 +84,7 @@
                   <a class="nav-link" href="testimonial.html">Testimonial</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="contact.html">Contact Us</a>
+                  <a class="nav-link" href="contact">Contact Us</a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="#"> Login</a>
