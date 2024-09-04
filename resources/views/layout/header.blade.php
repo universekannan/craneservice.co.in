@@ -18,11 +18,11 @@
             </a>
             <a href="">
               <i class="fa fa-map-marker" aria-hidden="true"></i>
-              <span>
+              <p class="text-end">
                 Location : Mottavilai,
 Karankadu PO, 
 Kanyakumari
-              </span>
+</p>
             </a>
           </div>
           <div class="social_box">
@@ -45,7 +45,7 @@ Kanyakumari
         <div class="container-fluid">
           <nav class="navbar navbar-expand-lg custom_nav-container ">
             <a class="navbar-brand" href="{{ url('home') }}">
-              <img src="images/logo.png" alt="">
+              <img src="images/logo/logo.png" alt="">
             </a>
             </a>
 
