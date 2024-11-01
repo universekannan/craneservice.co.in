@@ -89,7 +89,7 @@ Tamilnadu India
           <div class="col-md-2">
             <div class="info_logo">
               <a href="">
-                <img src="images/logo2.png" alt="">
+                <img class="mw-500" src="images/logo/logo2.png" alt="Max-width 500%">
               </a>
             </div>
           </div>

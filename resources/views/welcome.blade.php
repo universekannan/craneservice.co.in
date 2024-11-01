@@ -7,9 +7,78 @@
               <div class="row">
                 <div class="col-md-10 mx-auto">
                   <div class="detail-box">
-                    <h1>
-                      ARCHITECT <br>
-                      BUILDER CONSTRUCTION <br>
+                  <h1>
+                      SANIKA <br>
+                      CRANE 
+                      SERVICES
+                    </h1>
+                    <div class="btn-box">
+                      <a href="{{ url('contact') }}" class="btn1">
+                        Contact Us
+                      </a>
+                      <a href="{{ url('about') }}" class="btn2">
+                        About Us
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="carousel-item">
+            <div class="container ">
+              <div class="row">
+                <div class="col-md-10 mx-auto">
+                  <div class="detail-box">
+                  <h1>
+                      SANIKA <br>
+                      CRANE 
+                      SERVICES
+                    </h1>
+                    <div class="btn-box">
+                      <a href="" class="btn1">
+                        Contact Us
+                      </a>
+                      <a href="" class="btn2">
+                        About Us
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="carousel-item">
+            <div class="container ">
+              <div class="row">
+                <div class="col-md-10 mx-auto">
+                  <div class="detail-box">
+                  <h1>
+                      SANIKA <br>
+                      CRANE 
+                      SERVICES
+                    </h1>
+                    <div class="btn-box">
+                      <a href="" class="btn1">
+                        Contact Us
+                      </a>
+                      <a href="" class="btn2">
+                        About Us
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="carousel-item">
+            <div class="container ">
+              <div class="row">
+                <div class="col-md-10 mx-auto">
+                  <div class="detail-box">
+                  <h1>
+                      SANIKA <br>
+                      CRANE 
                       SERVICES
                     </h1>
                     <div class="btn-box">
@@ -31,77 +100,8 @@
                 <div class="col-md-10 mx-auto">
                   <div class="detail-box">
                     <h1>
-                      ARCHITECT <br>
-                      BUILDER CONSTRUCTION <br>
-                      SERVICES
-                    </h1>
-                    <div class="btn-box">
-                      <a href="" class="btn1">
-                        Contact Us
-                      </a>
-                      <a href="" class="btn2">
-                        About Us
-                      </a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="carousel-item">
-            <div class="container ">
-              <div class="row">
-                <div class="col-md-10 mx-auto">
-                  <div class="detail-box">
-                    <h1>
-                      ARCHITECT <br>
-                      BUILDER CONSTRUCTION <br>
-                      SERVICES
-                    </h1>
-                    <div class="btn-box">
-                      <a href="" class="btn1">
-                        Contact Us
-                      </a>
-                      <a href="" class="btn2">
-                        About Us
-                      </a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="carousel-item">
-            <div class="container ">
-              <div class="row">
-                <div class="col-md-10 mx-auto">
-                  <div class="detail-box">
-                    <h1>
-                      ARCHITECT <br>
-                      BUILDER CONSTRUCTION <br>
-                      SERVICES
-                    </h1>
-                    <div class="btn-box">
-                      <a href="" class="btn1">
-                        Contact Us
-                      </a>
-                      <a href="" class="btn2">
-                        About Us
-                      </a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="carousel-item">
-            <div class="container ">
-              <div class="row">
-                <div class="col-md-10 mx-auto">
-                  <div class="detail-box">
-                    <h1>
-                      ARCHITECT <br>
-                      BUILDER CONSTRUCTION <br>
+                      SANIKA <br>
+                      CRANE 
                       SERVICES
                     </h1>
                     <div class="btn-box">
@@ -255,7 +255,7 @@
               are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in
               the middle of text. All
             </p>
-            <a href="">
+            <a href="{{ url('about') }}">
               Read More
             </a>
           </div>
@@ -297,15 +297,14 @@
             <a href="#" class="item" data-owl-filter=".styling">Styling </a>
           </nav>
         </div>
-
+        
+       
         <div class="owl-carousel project_carousel">
           <div class="item painting">
             <div class="box">
               <div class="img-box">
-                <img src="images/project1.jpg" alt="" />
-                <a href="" class="pin_link">
-                  <i class="fa fa-link" aria-hidden="true"></i>
-                </a>
+                <img src="images/crane/services-1.JPG" alt="" />
+           
               </div>
               <div class="detail-box">
                 <h5>
@@ -321,10 +320,8 @@
           <div class="item reconstruction">
             <div class="box">
               <div class="img-box">
-                <img src="images/project2.jpg" alt="" />
-                <a href="" class="pin_link">
-                  <i class="fa fa-link" aria-hidden="true"></i>
-                </a>
+              <img src="images/crane/services-2.JPG" alt="" />
+               
               </div>
               <div class="detail-box">
                 <h5>
@@ -340,10 +337,8 @@
           <div class="item repair">
             <div class="box">
               <div class="img-box">
-                <img src="images/project1.jpg" alt="" />
-                <a href="" class="pin_link">
-                  <i class="fa fa-link" aria-hidden="true"></i>
-                </a>
+              <img src="images/crane/services-3.JPG" alt="" />
+               
               </div>
               <div class="detail-box">
                 <h5>
@@ -359,10 +354,8 @@
           <div class="item residential">
             <div class="box">
               <div class="img-box">
-                <img src="images/project1.jpg" alt="" />
-                <a href="" class="pin_link">
-                  <i class="fa fa-link" aria-hidden="true"></i>
-                </a>
+              <img src="images/crane/WAR.JPG" alt="" />
+                
               </div>
               <div class="detail-box">
                 <h5>
@@ -378,10 +371,8 @@
           <div class="item styling">
             <div class="box">
               <div class="img-box">
-                <img src="images/project1.jpg" alt="" />
-                <a href="" class="pin_link">
-                  <i class="fa fa-link" aria-hidden="true"></i>
-                </a>
+              <img src="images/crane/CAR.JPG" alt="" />
+                
               </div>
               <div class="detail-box">
                 <h5>
@@ -631,11 +622,7 @@
           </div>
         </div>
         <div class="col-lg-7 col-md-6 px-0">
-          <div class="map_container">
-            <div class="map">
-              <div id="googleMap"></div>
-            </div>
-          </div>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7898.289723578199!2d77.40452819134228!3d8.1881588173734!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b04f12dfceae539%3A0x7524430fe0f34ec7!2sCrane%20Services%20Nagercoil!5e0!3m2!1sen!2sin!4v1726217569991!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
       </div>
     </div>
