@@ -6,15 +6,14 @@
     "license": "MIT",
     "require": {
         "php": "^7.3|^8.0",
-        "barryvdh/laravel-dompdf": "^1.0",
+        "barryvdh/laravel-dompdf": "^2.0",
         "fruitcake/laravel-cors": "^2.0",
         "guzzlehttp/guzzle": "^7.0.1",
-        "ladumor/laravel-pwa": "^0.0.3",
+        "infyomlabs/laravel-ui-adminlte": "^3.2",
+        "ladumor/laravel-pwa": "*",
         "laravel/framework": "^8.75",
         "laravel/sanctum": "^2.11",
-        "laravel/tinker": "^2.5",
-        "simplesoftwareio/simple-qrcode": "^4.2",
-        "spatie/laravel-backup": "^6.16"
+        "laravel/tinker": "^2.5"
     },
     "require-dev": {
         "facade/ignition": "^2.5",
@@ -53,7 +52,9 @@
     },
     "extra": {
         "laravel": {
-            "dont-discover": []
+            "dont-discover": [
+            "laravel/dusk"
+            ]
         }
     },
     "config": {
